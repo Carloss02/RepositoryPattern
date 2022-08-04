@@ -1,0 +1,2 @@
+# RepositoryPattern
+CrudJPARepositoryRestApi OracleHRdb
